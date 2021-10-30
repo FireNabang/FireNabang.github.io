@@ -6,10 +6,7 @@
     {% include header.html %}
     {% include portfolio_grid.html %}
     {% include about.html %}
-		
-		<div class="main-content">
-				{{ content }}
-		</div>
+    {{ content }}
     {% if site.contact == "static" %}
     {% include contact_static.html %}
     {% elsif site.contact == "disqus" %}

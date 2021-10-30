@@ -1,8 +1,9 @@
 ---
 title : temp1
 layout: default
+author: CMaybe
 modal-id: 6
-date: 2014-07-15
+date: 2021-10-30
 img: submarine.png
 alt: image-alt
 project-date: April 2014

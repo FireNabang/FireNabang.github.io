@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: ㅁㄴㅇ랴ㅓㅁㄴㅇ;ㅣㅏ러먀ㅐ;젇 ;ㅏㅣ얼;ㅑㅐ머ㅏㅣ처패ㅑㅓ마ㅣ넝럎;ㅐㅓ뱓험;ㄴㅇ리ㅏ;ㄹ먀ㅓ챂;먼야ㅐ러뱌ㅐㅈㄷ;거ㅏㅣ;ㅓㅍ챠ㅐ멀;ㅐㅓㅁ냘베ㅐㅑㄷ갸ㅐㅓㅁ낭ㄹ;커티ㅓ퍄ㅐ;멇ㅁㄴㅇㄹ5486ㅎㄿ4ㅇㅁ6ㅅ4ㄷㄴ68ㅁ4ㅎ6
 ---

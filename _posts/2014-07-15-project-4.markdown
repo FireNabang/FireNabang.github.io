@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 먼저 당연히 깃허브 블로그에서도 애드센스를 달 수 있다는 점이다. 이는 단순히 재미로 글만 써도 돈을 벌 가능성이 생긴다는 뜻이다. (애드센스를 달 수 없다면 아마 안했을 것이다.)
 ---

@@ -37,17 +37,17 @@ There are two types of code elements which can be inserted in Markdown, the firs
 
 #### HTML
 
-```html
+~~~html
 <li class="ml-1 mr-1">
     <a target="_blank" href="#">
     <i class="fab fa-twitter"></i>
     </a>
 </li>
-```
+~~~
 
 #### CSS
 
-```css
+~~~css
 .highlight .c {
     color: #999988;
     font-style: italic; 
@@ -56,11 +56,11 @@ There are two types of code elements which can be inserted in Markdown, the firs
     color: #a61717;
     background-color: #e3d2d2; 
 }
-```
+~~~
 
 #### JS
 
-```js
+~~~js
 // alertbar later
 $(document).scroll(function () {
     var y = $(this).scrollTop();
@@ -70,32 +70,28 @@ $(document).scroll(function () {
         $('.alertbar').fadeOut();
     }
 });
-```
+~~~
 
 #### Python
 
-```python
+~~~python
 print("Hello World")
-```
+~~~
 
 #### Ruby
 
-```ruby
+~~~ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
-```
+~~~
 
 #### C
 
-```c
+~~~c
 printf("Hello World");
-```
+~~~
 
-
-
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
 
 ## Reference lists
 

@@ -44,11 +44,11 @@ social:
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/FireNabang
 
 # Postal address (add as many lines as necessary)
 address:

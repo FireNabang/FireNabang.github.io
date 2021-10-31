@@ -20,14 +20,14 @@
 							<img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
 							<h2 class="card-title">{{post.title}}</h2>
 							<h6 class="card-text">{{ post.description | strip_html | truncatewords:30 }}</h6>
+							{% if post.author %}
+							<span class="row">
+								<img class="author-thumb" margin-right="13px" width="40px" height="40px" border-radius: "100%" src="https://github.com/{{post.author}}.png" alt="{{ author.display_name }}">
+								<span class="author">{{ post.author }}</span>
+							</span>
+							{% endif %}
+							<span class="post-date">{{ post.date | date_to_string }}</span>
 						</a>
-						{% if post.author %}
-						<span class="row">
-							<img class="author-thumb" margin-right="13px" width="40px" height="40px" border-radius: "100%" src="https://github.com/{{post.author}}.png" alt="{{ author.display_name }}">
-							<span class="author">{{ post.author }}</span>
-						</span>
-						{% endif %}
-						<span class="post-date">{{ post.date | date_to_string }}</span>
                     </div>
                 {% endfor %}
             </div>
